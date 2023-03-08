@@ -5,4 +5,4 @@ def saluto_Parisi_Gruppo19():
     print(saluto)
 
 saluto_Parisi_Gruppo19()
-italo_vecchi_Gruppo19.saluto_Vecchi_Gruppo19()
+italo_vecchi_Gruppo19.saluto_Vecchi_Gruppo_19()
